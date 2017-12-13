@@ -1,0 +1,11 @@
+rgbd_dataset_freiburg1_xyz/*
+rgbd_dataset_freiburg2_xyz/*
+rgbd_dataset_freiburg1_rpy/*
+rgbd_dataset_freiburg2_rpy/*
+rgbd_dataset_freiburg1_teddy/*
+rgbd_dataset_freiburg1_360/*
+saved*
+KinectPose*/
+*.pyc
+*.sqlite3
+
