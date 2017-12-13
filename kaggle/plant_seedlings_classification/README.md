@@ -1,5 +1,9 @@
 Plant Recognizer
 ================
+## Install kaggle-cli
+'''
+pip install kaggle-cli
+'''
 
 ## Download
 
