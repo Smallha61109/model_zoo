@@ -1,9 +1,11 @@
 Plant Recognizer
 ================
+This project was forked from https://github.com/kiddos/model-zoo/tree/master/kaggle/plant-seedlings-classification
+
 ## Install kaggle-cli
-'''
+```
 pip install kaggle-cli
-'''
+```
 
 ## Download
 
